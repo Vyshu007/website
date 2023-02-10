@@ -1,0 +1,87 @@
+.vy {
+    background: radial-gradient(#e5e5e5,#ffff,#b14949);
+} 
+.img {
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+    width:25%;
+} 
+.buton {
+    background-color: rgb(235, 235, 245); 
+    border-radius: 30px; 
+    padding: 5px;   
+    position: relative;  
+    margin-top: 0%;
+    bottom:10px;
+    
+    
+}  
+.buton1 {
+    background-color: rgb(235, 235, 245); 
+    border-radius: 30px;  
+      
+    padding: 5px;   
+    position: relative;  
+    margin-bottom: 0%;
+    top:10px;
+    
+}  
+.buton2 {
+    background-color: rgb(235, 235, 245); 
+    border-radius: 30px;  
+    
+    padding: 5px;   
+    position: relative;  
+    margin-top: 0%;
+    bottom:10px;
+}  
+.buton3 {
+    background-color: rgb(235, 235, 245); 
+    border-radius: 30px;  
+    
+    padding: 5px;   
+    position: relative;  
+    margin-bottom: 0%;
+    top:10px;
+    
+}   
+.car {
+    margin-bottom: 10px;
+} 
+.ca {
+    margin-top: 30px;
+}
+.buton4 {
+    background-color: rgb(235, 235, 245); 
+    border-radius: 30px;  
+    text-decoration-color: rgb(75, 80, 8);  
+    padding: 5px;   
+    position: relative;  
+    margin-top: 0%;
+    bottom:10px;
+    
+} 
+.backbuton {
+    background-color: rgb(15, 15, 75); 
+    text-align: center;  
+    margin:0px; 
+    
+    
+} 
+.backbuton1 {
+    background-color: rgb(148, 9, 85); 
+    text-align: center;
+}
+.backbuton2 {
+    background-color: rgb(214, 95, 40); 
+    text-align: center;
+}
+.backbuton3 {
+    background-color:rgb(11, 44, 10); 
+    text-align: center;
+} 
+.backbuton4 {
+    background-color: rgb(75, 80, 8); 
+    text-align: center;
+}

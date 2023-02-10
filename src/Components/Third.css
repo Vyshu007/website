@@ -1,0 +1,14 @@
+.con {
+    background-color: #bd1d68; 
+    padding:10px;
+} 
+.tex {
+    color: white; 
+    margin-bottom: 10px;
+} 
+.te {
+    font-size: 30px; 
+    font-family: 'Courier New', Courier, monospace; 
+    margin-bottom: 15px; 
+    color: white;
+}

@@ -1,0 +1,24 @@
+.container{
+    padding: 115px;
+}
+.row{
+    display: flex;
+    justify-content: space-around;
+}
+.about-col-10{
+    flex-basis: 40%;
+
+} 
+.su {
+    font-family: 'Courier New', Courier, monospace; 
+}
+.about-col-10 img{
+    width: 80%;
+    
+}
+.about-col-20{
+    flex-basis: 35%;
+}
+.about-col-20 p{
+    margin-top: 10px; 
+}

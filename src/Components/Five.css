@@ -1,0 +1,17 @@
+
+.bu {
+    background-color: rgb(14, 14, 94); 
+    padding:10px; 
+    color: white; 
+    position:  relative; 
+    left: 50px;  
+    margin-top: 10px;
+
+} 
+.m {
+    background-color: rgb(223, 224, 126);
+}
+.c {
+    padding: 20px; 
+    
+}
